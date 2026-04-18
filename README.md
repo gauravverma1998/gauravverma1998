@@ -35,8 +35,8 @@ focused on performance, clean architecture, and maintainable code.
 
 <br>
 
-<a href="./gauravresume.pdf">
-  <img src="https://img.shields.io/badge/Download%20Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white" height="38"/>
+<a href="https://gauravverma1998.github.io/">
+  <img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" height="38"/>
 </a>
 
 </div>
@@ -139,6 +139,10 @@ B.Tech, Mechanical Engineering — National Institute of Technology Uttarakhand 
   &nbsp;
   <a href="./gauravresume.pdf">
     <img src="https://img.shields.io/badge/Resume-0071E3?style=for-the-badge&logo=readthedocs&logoColor=white" height="38"/>
+  </a>
+  &nbsp;
+  <a href="https://gauravverma1998.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-86868B?style=for-the-badge&logo=safari&logoColor=white" height="38"/>
   </a>
 </div>
 
